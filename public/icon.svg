@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#f9b9ae;fill-opacity:1;stroke-width:4.43309;paint-order:stroke fill markers"
+     id="rect6"
+     width="92.93338"
+     height="89.902573"
+     x="13.568009"
+     y="-6.3286271"
+     ry="5.1410561"
+     transform="matrix(0.93314264,0.35950635,0.10302397,0.99467887,0,0)" />
+  <rect
+     style="fill:#f9b9ae;fill-opacity:1;stroke-width:1.39856;paint-order:stroke fill markers"
+     id="rect9"
+     width="8.2978725"
+     height="100.21277"
+     x="55.851063"
+     y="9.8936157"
+     ry="5.7306423" />
+  <rect
+     style="fill:#f98878;fill-opacity:1;stroke-width:1.19;paint-order:stroke fill markers"
+     id="rect5"
+     width="8.2978725"
+     height="72.553192"
+     x="55.851063"
+     y="23.723404"
+     ry="4.1489363" />
+  <g
+     id="layer1">
+    <g
+       id="g5"
+       transform="translate(-9.2243175,-3.6492682)">
+      <rect
+         style="fill:#f9b9ae;fill-opacity:1;stroke-width:1.19;paint-order:stroke fill markers"
+         id="rect7"
+         width="57.958637"
+         height="20.311586"
+         x="-116.71561"
+         y="-63.347374"
+         ry="10.155793"
+         transform="scale(-1)" />
+      <rect
+         style="fill:#f9b9ae;fill-opacity:1;stroke-width:1.19;paint-order:stroke fill markers"
+         id="rect8"
+         width="57.958637"
+         height="20.311586"
+         x="-79.691658"
+         y="-84.104034"
+         ry="10.155793"
+         transform="scale(-1)" />
+      <rect
+         style="fill:#f94b4b;stroke-width:1.19;paint-order:stroke fill markers"
+         id="rect1"
+         width="57.958637"
+         height="20.311586"
+         x="-92.444466"
+         y="-83.961853"
+         ry="10.155793"
+         transform="scale(-1)" />
+      <rect
+         style="fill:#f94b4b;stroke-width:1.19;paint-order:stroke fill markers"
+         id="rect2-3"
+         width="57.958637"
+         height="20.311586"
+         x="-103.96281"
+         y="-63.64827"
+         ry="10.155793"
+         transform="scale(-1)" />
+    </g>
+    <path
+       style="fill:#f9e7e7;fill-opacity:1;stroke-width:1.19;paint-order:stroke fill markers"
+       id="path5"
+       d="M 43.178648,8.8764471 24.768894,19.204427 25.029478,-1.9028777 Z"
+       transform="matrix(0.63012471,0,0,0.63447477,38.592287,54.511302)" />
+  </g>
+</svg>
