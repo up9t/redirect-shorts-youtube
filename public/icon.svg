@@ -7,37 +7,59 @@
    viewBox="0 0 120 120"
    version="1.1"
    id="svg1"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.35"
+     inkscape:cx="42.765957"
+     inkscape:cy="45.957447"
+     inkscape:window-width="1536"
+     inkscape:window-height="795"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
-  <rect
-     style="fill:#f9b9ae;fill-opacity:1;stroke-width:4.43309;paint-order:stroke fill markers"
-     id="rect6"
-     width="92.93338"
-     height="89.902573"
-     x="13.568009"
-     y="-6.3286271"
-     ry="5.1410561"
-     transform="matrix(0.93314264,0.35950635,0.10302397,0.99467887,0,0)" />
-  <rect
-     style="fill:#f9b9ae;fill-opacity:1;stroke-width:1.39856;paint-order:stroke fill markers"
-     id="rect9"
-     width="8.2978725"
-     height="100.21277"
-     x="55.851063"
-     y="9.8936157"
-     ry="5.7306423" />
-  <rect
-     style="fill:#f98878;fill-opacity:1;stroke-width:1.19;paint-order:stroke fill markers"
-     id="rect5"
-     width="8.2978725"
-     height="72.553192"
-     x="55.851063"
-     y="23.723404"
-     ry="4.1489363" />
   <g
      id="layer1">
+    <rect
+       style="fill:#f9b9ae;fill-opacity:1;stroke-width:4.43309;paint-order:stroke fill markers"
+       id="rect6"
+       width="92.93338"
+       height="89.902573"
+       x="13.568009"
+       y="-6.3286271"
+       ry="5.1410561"
+       transform="matrix(0.93314264,0.35950635,0.10302397,0.99467887,0,0)" />
+    <rect
+       style="fill:#f9b9ae;fill-opacity:1;stroke-width:1.39856;paint-order:stroke fill markers"
+       id="rect9"
+       width="8.2978725"
+       height="100.21277"
+       x="55.851063"
+       y="9.8936157"
+       ry="5.7306423" />
+    <rect
+       style="fill:#f98878;fill-opacity:1;stroke-width:1.19;paint-order:stroke fill markers"
+       id="rect5"
+       width="8.2978725"
+       height="72.553192"
+       x="55.851063"
+       y="23.723404"
+       ry="4.1489363" />
     <g
        id="g5"
        transform="translate(-9.2243175,-3.6492682)">
