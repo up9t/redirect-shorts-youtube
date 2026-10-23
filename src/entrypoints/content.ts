@@ -2,7 +2,10 @@ function replaceURL(old: URL, id: string) {
   const newUrl = new URL(old);
   newUrl.pathname = "/watch";
   newUrl.search = `?v=${id}`;
-  location.replace(newUrl);
+
+  queueMicrotask(() => {
+    location.replace(newUrl);
+  });
 }
 
 function handleURLChange(currentUrl: URL) {
