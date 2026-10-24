@@ -1,3 +1,5 @@
+import { hydrateSettings, settings, watchSettings } from "../settings.ts";
+
 function replaceURL(old: URL, id: string) {
   const newUrl = new URL(old);
   newUrl.pathname = "/watch";
@@ -19,12 +21,19 @@ function handleURLChange(currentUrl: URL) {
 
 export default defineContentScript({
   matches: ["*://*.youtube.com/*"],
-  main(context) {
+  async main(context) {
+    hydrateSettings();
+    watchSettings();
+
     context.addEventListener(window, "wxt:locationchange", (event) => {
-      handleURLChange(event.newUrl);
+      if (settings.enabled) {
+        handleURLChange(event.newUrl);
+      }
     });
 
     // trigger for the first time
-    handleURLChange(new URL(location.href));
+    if (settings.enabled) {
+      handleURLChange(new URL(location.href));
+    }
   },
 });

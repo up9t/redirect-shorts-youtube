@@ -24,6 +24,13 @@ body {
 
 #app {
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0.5rem 1rem;
   text-align: center;
+}
+
+button {
+  background-color: rgb(206, 96, 68);
+}
+button.off {
+  background-color: rgb(183, 235, 104);
 }
