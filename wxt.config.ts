@@ -6,7 +6,7 @@ export default defineConfig({
   outDir: "dist/",
   manifest: {
     name: "Redirect Shorts on Youtube",
-    // permissions: ["webNavigation"],
+    permissions: ["storage"],
     browser_specific_settings: {
       gecko: {
         id: "redirect-shorts-youtube@up9t.com",
